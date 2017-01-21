@@ -1,4 +1,4 @@
 # Exercise-repo
 This project will contain...
-Repository made for exercises.
-
+This Repo is made for ecercises.
+Edited in master branch.
